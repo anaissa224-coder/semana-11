@@ -1,0 +1,8 @@
+1. ¿Qué es una base de datos en una aplicación?
+B
+2. ¿Qué significa CRUD en programación?
+A
+3. ¿Qué permite la autenticación de usuarios en una aplicación?
+B
+4. ¿Por qué es importante proteger datos sensibles en una plataforma digital?
+B
