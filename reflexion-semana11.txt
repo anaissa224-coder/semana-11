@@ -1,0 +1,9 @@
+Una plataforma de participación ciudadana requiere una base de datos sólida para organizar y almacenar 
+de manera estructurada las propuestas y votos de la comunidad, permitiendo que la información sea
+accesible y procesable. La autenticación de usuarios es fundamental para garantizar el principio de
+"una persona, un voto", evitando duplicidades o fraudes que resten legitimidad a los procesos
+democráticos digitales. Por otro lado, la protección de información asegura que los datos personales y
+las opiniones de los ciudadanos no sean vulnerados ni utilizados de forma indebida por terceros. Sin 
+estos elementos, la confianza en la herramienta se perdería, inhibiendo la colaboración ciudadana. En 
+conjunto, estos componentes tecnológicos brindan la transparencia y seguridad necesarias para que la 
+voz del pueblo sea escuchada en un entorno digital íntegro.
